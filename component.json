@@ -1,0 +1,19 @@
+{
+  "name": "prefixed",
+  "repo": "juliangruber/prefixed",
+  "description": "CSS vendor prefix helpers",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "keywords": [
+    "css",
+    "vendor",
+    "prefix",
+    "browserify",
+    "component",
+    "browser"
+  ],
+  "license": "MIT"
+}
